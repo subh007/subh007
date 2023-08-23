@@ -3,6 +3,10 @@
 [![Medium](https://github.com/subh007/subh007/blob/master/medium.svg)](https://medium.com/@subh__singh) 
 [![Stackoverflow](https://github.com/subh007/subh007/blob/master/stackoverflow.svg)](https://stackoverflow.com/users/844409/subhash-kumar-singh)
 
+
+Open Source enthusiast, passionate programmer, ʕ◔ϖ◔ʔ
+
+
 ### My top 10 technologies
 
 
@@ -10,4 +14,17 @@
 |---|---|---|
 |![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)|![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
+
+
+
 [![Subhash's github stats](https://github-readme-stats.vercel.app/api?username=subh007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/subh007)
+
+### Streak Stats Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
+---
+
+### Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=subh007&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/subh007/github-profile-trophy#about-rank)
