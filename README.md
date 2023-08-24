@@ -20,7 +20,7 @@ Open Source enthusiast, passionate programmer, ʕ◔ϖ◔ʔ
 [![Subhash's github stats](https://github-readme-stats.vercel.app/api?username=subh007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/subh007)
 
 ### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subh007&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
