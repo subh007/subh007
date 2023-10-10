@@ -4,7 +4,7 @@
 [![Stackoverflow](https://github.com/subh007/subh007/blob/main/stackoverflow.svg)](https://stackoverflow.com/users/844409/subhash-kumar-singh)
 
 
-Open Source enthusiast, passionate programmer, ʕ◔ϖ◔ʔ
+Open Source enthusiast ʕ◔ϖ◔ʔ
 
 
 ### My top 10 technologies
